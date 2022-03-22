@@ -1,4 +1,4 @@
-# React-Grocery-Bud 
+## React-Grocery-Bud 
 
 # Getting Started with Create React App
 
